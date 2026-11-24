@@ -5,7 +5,7 @@
   </a>
 
   <h1>Hi, I'm Anchit 👋</h1>
-  <p><strong>Biologist who writes code & builds circuits.</strong></p>
+  <p><strong>I Work In Computational Synthetic Biology</strong></p>
 
   <p>
     <a href="https://www.anchitslab.space"><img src="https://img.shields.io/badge/Portfolio-anchitslab.space-0891b2?style=flat-square&labelColor=1c1917" alt="Portfolio" /></a>
@@ -21,7 +21,7 @@
 ### About
 
 - 🌍 Based in **India**
-- 🔬 Looking to collaborate on **Agentic AI**, **Computational Biology**, **Benchmarks & LLMs**
+- 🔬 Looking to collaborate on **Deep Learning**, **Computational Biology**, **Benchmarks & LLMs**
 - 🍳 Outside the lab & terminal: I'm a really good chef, so *let me cook*
 
 ---
