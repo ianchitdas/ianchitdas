@@ -5,7 +5,7 @@
   </a>
 
   <h1>Hi, I'm Anchit 👋</h1>
-  <p><strong>I Work In Computational Synthetic Biology</strong></p>
+  <p><strong>Computational Synthetic Biology · Deep Learning · Benchmarks &amp; LLMs</strong></p>
 
   <p>
     <a href="https://www.anchitslab.space"><img src="https://img.shields.io/badge/Portfolio-anchitslab.space-0891b2?style=flat-square&labelColor=1c1917" alt="Portfolio" /></a>
@@ -21,8 +21,41 @@
 ### About
 
 - 🌍 Based in **India**
-- 🔬 Looking to collaborate on **Deep Learning**, **Computational Biology**, **Benchmarks & LLMs**
+- 🔬 I work in **computational synthetic biology**, building and evaluating ML models for biological problems
+- 🤝 Looking to collaborate on **Deep Learning**, **Computational Biology**, **Benchmarks & LLMs**
 - 🍳 Outside the lab & terminal: I'm a really good chef, so *let me cook*
+
+---
+
+### Featured Projects
+
+<!-- Replace each placeholder below with a real project. Keep descriptions to one or two lines. -->
+
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| 🧬 [**Project One**](https://github.com/ianchitdas/REPO-NAME) | One-line description of the problem it solves and the result (e.g. "Predicts X from Y, reaching Z accuracy on W"). | `Python` `PyTorch` |
+| 📊 [**Project Two**](https://github.com/ianchitdas/REPO-NAME) | One-line description. Mention a benchmark, dataset, or paper if there is one. | `Python` `Hugging Face` |
+| 🛠️ [**Project Three**](https://github.com/ianchitdas/REPO-NAME) | One-line description. | `Rust` `Python` |
+
+<details>
+<summary><b>More projects</b></summary>
+
+<br />
+
+- [**Project Four**](https://github.com/ianchitdas/REPO-NAME): short description
+- [**Project Five**](https://github.com/ianchitdas/REPO-NAME): short description
+
+</details>
+
+> 🔗 See everything else on my [portfolio](https://www.anchitslab.space) or in my [repositories](https://github.com/ianchitdas?tab=repositories).
+
+---
+
+### Currently
+
+- 🔭 Working on: *what you're building right now*
+- 📚 Learning: *a topic, paper, or tool*
+- 💬 Ask me about: *protein modeling, benchmarks, LLM evals, Rust for science, or the best way to cook dal*
 
 ---
 
