@@ -33,17 +33,16 @@
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
-| 🧬 [**Project One**](https://github.com/ianchitdas/REPO-NAME) | One-line description of the problem it solves and the result (e.g. "Predicts X from Y, reaching Z accuracy on W"). | `Python` `PyTorch` |
-| 📊 [**Project Two**](https://github.com/ianchitdas/REPO-NAME) | One-line description. Mention a benchmark, dataset, or paper if there is one. | `Python` `Hugging Face` |
-| 🛠️ [**Project Three**](https://github.com/ianchitdas/REPO-NAME) | One-line description. | `Rust` `Python` |
+| 🧬 [**Virtual Cell**](https://github.com/ianchitdas/Virtual-Cell) | Predicting Perturbations Using Deep Learning | `Python` `PyTorch` |
+
 
 <details>
 <summary><b>More projects</b></summary>
 
 <br />
 
-- [**Project Four**](https://github.com/ianchitdas/REPO-NAME): short description
-- [**Project Five**](https://github.com/ianchitdas/REPO-NAME): short description
+- [**My Website**](https://github.com/ianchitdas/anchit): It's Just A Placeholder
+
 
 </details>
 
