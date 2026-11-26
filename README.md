@@ -41,7 +41,7 @@ I work where **machine learning meets biology**, building models that help make 
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**Virtual Cell**](https://github.com/ianchitdas/Virtual-Cell) | Predicting cellular perturbations using deep learning | `Python` `PyTorch` |
+| [**Virtual Cell**](https://github.com/ianchitdas/Virtual-Cell) | Predicting genetic perturbations using deep learning | `Python` `PyTorch` |
 
 <details>
 <summary><code>+ More projects</code></summary>
