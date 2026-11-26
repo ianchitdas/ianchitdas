@@ -28,7 +28,7 @@
 
 ---
 
-### `// About`
+### `About`
 
 I work where **machine learning meets biology**, building models that help make sense of how cells behave and how proteins fold, bind and function. I like projects that are rigorous, reproducible and a little bit weird.
 
@@ -39,7 +39,7 @@ I work where **machine learning meets biology**, building models that help make 
 
 ---
 
-### `// Featured Projects`
+### `Featured Projects`
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ I work where **machine learning meets biology**, building models that help make 
 
 ---
 
-### `// Tech Stack`
+### `Tech Stack`
 
 | Domain | Tools |
 | :--- | :--- |
@@ -70,7 +70,7 @@ I work where **machine learning meets biology**, building models that help make 
 
 ---
 
-### `// GitHub Stats`
+### `GitHub Stats`
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ianchitdas&show_icons=true&hide_border=false&bg_color=0d1117&title_color=0891b2&text_color=e6edf3&icon_color=0891b2&border_color=21262d&border_radius=8" alt="GitHub stats" />
@@ -83,7 +83,7 @@ I work where **machine learning meets biology**, building models that help make 
 
 ---
 
-### `// Currently`
+### `Currently`
 
 ```text
 > Working on  :  Virtual Cell & computational synthetic biology
@@ -93,7 +93,7 @@ I work where **machine learning meets biology**, building models that help make 
 
 ---
 
-### `// Let's Connect`
+### `Let's Connect`
 
 Open to collaborations in **Bio-ML**, scientific computing and evaluation research. The best way to reach me is by [email](mailto:anchitworks@gmail.com), or say hi on [X](https://x.com/itsanchitd) or [LinkedIn](https://www.linkedin.com/in/itsanchitdas).
 
