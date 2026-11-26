@@ -22,8 +22,6 @@
     <a href="https://x.com/itsanchitd"><img src="https://img.shields.io/badge/X-@itsanchitd-0891b2?style=flat-square&logo=x&logoColor=e6edf3&labelColor=0d1117" alt="X" /></a>
     <a href="https://www.linkedin.com/in/itsanchitdas"><img src="https://img.shields.io/badge/LinkedIn-itsanchitdas-0891b2?style=flat-square&logo=linkedin&logoColor=e6edf3&labelColor=0d1117" alt="LinkedIn" /></a>
   </p>
-
-  <img src="https://komarev.com/ghpvc/?username=ianchitdas&label=Profile+views&color=0891b2&style=flat-square&labelColor=0d1117" alt="Profile views" />
 </div>
 
 ---
