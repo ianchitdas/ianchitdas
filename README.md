@@ -1,29 +1,28 @@
-<div align="center">
-
-  <a href="https://www.anchitslab.space">
-    <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" alt="You know the rules, and so do I" width="420" />
-  </a>
-
-  <h1>Hi, I'm Anchit 👋</h1>
-  <p><strong>Computational Synthetic Biology · Deep Learning · Benchmarks &amp; LLMs</strong></p>
-
-  <p>
-    <a href="https://www.anchitslab.space"><img src="https://img.shields.io/badge/Portfolio-anchitslab.space-0891b2?style=flat-square&labelColor=1c1917" alt="Portfolio" /></a>
-    <a href="mailto:anchitworks@gmail.com"><img src="https://img.shields.io/badge/Email-anchitworks@gmail.com-0891b2?style=flat-square&labelColor=1c1917" alt="Email" /></a>
-    <a href="https://x.com/itsanchitd"><img src="https://img.shields.io/badge/X-@itsanchitd-0891b2?style=flat-square&logo=x&logoColor=white&labelColor=1c1917" alt="X" /></a>
-    <a href="https://www.linkedin.com/in/itsanchitdas"><img src="https://img.shields.io/badge/LinkedIn-itsanchitdas-0891b2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1c1917" alt="LinkedIn" /></a>
-  </p>
-
-</div>
-
----
-
-### About
-
-- 🌍 Based in **India**
-- 🔬 I work in **computational synthetic biology**, building and evaluating ML models for biological problems
-- 🤝 Looking to collaborate on **Deep Learning**, **Computational Biology**, **Benchmarks & LLMs**
-- 🍳 Outside the lab & terminal: I'm a really good chef, so *let me cook*
+<table>
+  <tr>
+    <td width="35%" align="center" valign="middle">
+      <a href="https://www.anchitslab.space">
+        <img src="./avatar.png" alt="Anchit Das" width="260" />
+      </a>
+    </td>
+    <td width="65%" valign="top">
+      <h1>Hi, I'm Anchit 👋</h1>
+      <p><strong>Computational Synthetic Biology · Deep Learning · Benchmarks &amp; LLMs</strong></p>
+      <p>
+        <a href="https://www.anchitslab.space"><img src="https://img.shields.io/badge/Portfolio-anchitslab.space-0891b2?style=flat-square&labelColor=1c1917" alt="Portfolio" /></a>
+        <a href="mailto:anchitworks@gmail.com"><img src="https://img.shields.io/badge/Email-anchitworks@gmail.com-0891b2?style=flat-square&labelColor=1c1917" alt="Email" /></a>
+        <a href="https://x.com/itsanchitd"><img src="https://img.shields.io/badge/X-@itsanchitd-0891b2?style=flat-square&logo=x&logoColor=white&labelColor=1c1917" alt="X" /></a>
+        <a href="https://www.linkedin.com/in/itsanchitdas"><img src="https://img.shields.io/badge/LinkedIn-itsanchitdas-0891b2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1c1917" alt="LinkedIn" /></a>
+      </p>
+      <ul>
+        <li>🌍 Based in <strong>India</strong></li>
+        <li>🔬 I work in <strong>computational synthetic biology</strong>, building and evaluating ML models for biological problems</li>
+        <li>🤝 Looking to collaborate on <strong>Deep Learning</strong>, <strong>Computational Biology</strong>, <strong>Benchmarks &amp; LLMs</strong></li>
+        <li>🍳 Outside the lab &amp; terminal: I'm a really good chef, so <em>let me cook</em></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
