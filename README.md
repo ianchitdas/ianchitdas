@@ -2,7 +2,7 @@
   <tr>
     <td width="35%" align="center" valign="middle">
       <a href="https://www.anchitslab.space">
-        <img src="./avatar.png" alt="Anchit Das" width="260" />
+        <img src="./assets/my.png" alt="Anchit Das" width="260" />
       </a>
     </td>
     <td width="65%" valign="top">
