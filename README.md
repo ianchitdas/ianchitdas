@@ -42,6 +42,8 @@ I work where **machine learning meets biology**, building models that help make 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | [**Virtual Cell**](https://github.com/ianchitdas/Virtual-Cell) | Predicting genetic perturbations using deep learning | `Python` `PyTorch` |
+| [**Single-Cell-RNA-seq-Cell-Type-Classification-Clustering**](https://github.com/ianchitdas/Single-Cell-RNA-seq-Cell-Type-Classification-Clustering.git) | Building an end-to-end Multi-Batch PBMC Single-Cell Clustering & Cell Type Classification pipeline that benchmarks classical graph clustering, pretrained linear reference mapping, and deep variational autoencoder | `Python` `PyTorch` |
+
 
 <details>
 <summary><code>+ More projects</code></summary>
