@@ -1,28 +1,24 @@
-<table>
-  <tr>
-    <td width="35%" align="center" valign="middle">
-      <a href="https://www.anchitslab.space">
-        <img src="./assets/my.png" alt="Anchit Das" width="260" />
-      </a>
-    </td>
-    <td width="65%" valign="top">
-      <h1>Hi, I'm Anchit 👋</h1>
-      <p><strong>Computational Synthetic Biology · Deep Learning · Benchmarks &amp; LLMs</strong></p>
-      <p>
-        <a href="https://www.anchitslab.space"><img src="https://img.shields.io/badge/Portfolio-anchitslab.space-0891b2?style=flat-square&labelColor=1c1917" alt="Portfolio" /></a>
-        <a href="mailto:anchitworks@gmail.com"><img src="https://img.shields.io/badge/Email-anchitworks@gmail.com-0891b2?style=flat-square&labelColor=1c1917" alt="Email" /></a>
-        <a href="https://x.com/itsanchitd"><img src="https://img.shields.io/badge/X-@itsanchitd-0891b2?style=flat-square&logo=x&logoColor=white&labelColor=1c1917" alt="X" /></a>
-        <a href="https://www.linkedin.com/in/itsanchitdas"><img src="https://img.shields.io/badge/LinkedIn-itsanchitdas-0891b2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1c1917" alt="LinkedIn" /></a>
-      </p>
-      <ul>
-        <li>🌍 Based in <strong>India</strong></li>
-        <li>🔬 I work in <strong>computational synthetic biology</strong>, building and evaluating ML models for biological problems</li>
-        <li>🤝 Looking to collaborate on <strong>Deep Learning</strong>, <strong>Computational Biology</strong>, <strong>Benchmarks &amp; LLMs</strong></li>
-        <li>🍳 Outside the lab &amp; terminal: I'm a really good chef, so <em>let me cook</em></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://www.anchitslab.space">
+          <img src="./assets/my.png" alt="Anchit Das" height="330" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <img src="./assets/neo-fetch.svg" alt="Anchit Neofetch Info" height="330" />
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <a href="https://www.anchitslab.space"><img src="https://img.shields.io/badge/Portfolio-anchitslab.space-0891b2?style=flat-square&labelColor=1c1917" alt="Portfolio" /></a>
+    <a href="mailto:anchitworks@gmail.com"><img src="https://img.shields.io/badge/Email-anchitworks@gmail.com-0891b2?style=flat-square&labelColor=1c1917" alt="Email" /></a>
+    <a href="https://x.com/itsanchitd"><img src="https://img.shields.io/badge/X-@itsanchitd-0891b2?style=flat-square&logo=x&logoColor=white&labelColor=1c1917" alt="X" /></a>
+    <a href="https://www.linkedin.com/in/itsanchitdas"><img src="https://img.shields.io/badge/LinkedIn-itsanchitdas-0891b2?style=flat-square&logo=linkedin&logoColor=white&labelColor=1c1917" alt="LinkedIn" /></a>
+  </p>
+</div>
 
 ---
 
