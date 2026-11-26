@@ -33,7 +33,7 @@ I work where **machine learning meets biology**, building models that help make 
 - 🧬 Predicting cellular responses to perturbations with deep learning
 - 🧪 Interested in computational synthetic biology and protein modeling
 - 📏 Care a lot about honest benchmarks and evaluation
-- 🍛 Occasionally write fewer papers and cook more dal
+- 🍛 Occasionally write fewer papers and cook some biriyani
 
 ---
 
