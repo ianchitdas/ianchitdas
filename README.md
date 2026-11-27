@@ -13,7 +13,7 @@
   </table>
 
   <a href="https://github.com/ianchitdas">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=0891B2&center=true&vCenter=true&width=640&height=40&lines=Hi%2C+I'm+Anchit+%F0%9F%91%8B;Building+at+The+Edge+of+Biology+%26+Machine+Learning;Computational+Synthetic+Biology+%7C+Bio-ML;Exploring+Protein+Modeling+%26+LLM+Evals" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1400&color=0891B2&center=true&vCenter=true&width=640&height=40&lines=Hi%2C+I'm+Anchit+%F0%9F%91%8B;Building+at+The+Edge+of+Biology+%26+Machine+Learning;Computational+Synthetic+Biology+%7C+Bio X AI;Exploring+Protein+Modeling+%26+LLM+Evals" alt="Typing intro" />
   </a>
 
   <p>
