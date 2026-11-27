@@ -104,19 +104,6 @@ I work where **machine learning meets biology**, building models that help make 
 
 ---
 
-### `GitHub Stats`
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ianchitdas&show_icons=true&hide_border=false&bg_color=0d1117&title_color=0891b2&text_color=e6edf3&icon_color=0891b2&border_color=21262d&border_radius=8" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianchitdas&layout=compact&hide_border=false&bg_color=0d1117&title_color=0891b2&text_color=e6edf3&border_color=21262d&border_radius=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ianchitdas&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=8b949e&dates=8b949e&stroke=21262d&border=21262d&hide_border=false" alt="GitHub streak" />
-</p>
-
----
-
 ### `Currently`
 
 ```text
